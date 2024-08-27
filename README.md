@@ -1,1 +1,2 @@
 # Predicting-Property-Redevelopment-in-Charlotte-NC
+This is a project I completed with 3 other people, including Matthew Weschler, Derrick Mayall, and [Riley Leprell](https://github.com/RileyLePrell). We made a map to visualize the results of the model which can be found [here](https://experience.arcgis.com/experience/a4fd282ef8924442a7786664b03836f5#data_s=id%3AdataSource_1-18f1156ebb8-layer-4%3A388465).
