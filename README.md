@@ -3,4 +3,6 @@
 This project aims to predict the probability of a parcel redevloping in the next five years. We made a map to visualize the results of the model which can be found [here](https://experience.arcgis.com/experience/a4fd282ef8924442a7786664b03836f5#data_s=id%3AdataSource_1-18f1156ebb8-layer-4%3A388465).
 
 <h6>Data Sources</h6>
-We used tax data from [Mecklenburg County]([https://maps.mecknc.gov/opendata/metadata/Tax_Parcels_with_CAMA_Data.html](url))
+We used tax data from Mecklenburg County, which is available at the following link:
+  ([https://maps.mecknc.gov/opendata/metadata/Tax_Parcels_with_CAMA_Data.html](url))
+
