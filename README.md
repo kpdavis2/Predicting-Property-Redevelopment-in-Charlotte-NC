@@ -4,5 +4,8 @@ This project aims to predict the probability of a parcel redevloping in the next
 
 <h6>Data Sources</h6>
 We used tax data from Mecklenburg County, which is available at the following link:
-  ([https://maps.mecknc.gov/opendata/metadata/Tax_Parcels_with_CAMA_Data.html](url))
+<ul>
+  <li> https://maps.mecknc.gov/opendata/metadata/Tax_Parcels_with_CAMA_Data.html </li>
+</ul>
+  
 
